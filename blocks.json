@@ -1,0 +1,10 @@
+{
+    "format_version":"1.21.60",
+    "nether:nether_reactor_core": {
+        "textures": "nether_reactor_core",
+        "carried_textures": "nether_reactor_core",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "metal"
+    }
+}

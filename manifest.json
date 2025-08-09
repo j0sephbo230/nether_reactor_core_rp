@@ -1,0 +1,18 @@
+{ 
+ "format_version": 2, 
+ "header": { 
+  "description": "This is a resource pack to add a nether reactor core block", 
+  "name": "Nether Reactor Core Resource Pack", 
+  "uuid": "1e516dbc-9432-42a7-9a5d-164d98a90909", 
+  "version": [ 1, 0, 0 ], 
+  "min_engine_version": [1, 21, 80] 
+ }, 
+ "modules": [ 
+  { 
+   "description": "Nether Reactor Core Pack", 
+   "type": "resources", 
+   "uuid": "31cc1891-60d9-472a-87ff-0a6651f7722e", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+} 
