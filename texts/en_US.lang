@@ -1,1 +1,5 @@
+tile.nether:end_reactor_core.name=End Reactor Core
 tile.nether:nether_reactor_core.name=Nether Reactor Core
+tile.nether:nether_reactor_core_active.name=Active Nether Reactor Core
+tile.nether:nether_reactor_core_inactive.name=Inactive Nether Reactor Core
+tile.nether:glowing_obsidian.name=Tile Glowing Obsidian Name

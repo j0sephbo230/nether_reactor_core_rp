@@ -1,10 +1,38 @@
 {
     "format_version":"1.21.60",
+    "nether:end_reactor_core": {
+        "textures": "end_reactor_core",
+        "carried_textures": "end_reactor_core",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "metal"
+    },
     "nether:nether_reactor_core": {
         "textures": "nether_reactor_core",
         "carried_textures": "nether_reactor_core",
         "isotropic": false,
         "brightness_gamma": 1,
         "sound": "metal"
+    },
+    "nether:nether_reactor_core_active": {
+        "textures": "nether_reactor_core_active",
+        "carried_textures": "nether_reactor_core_active",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "metal"
+    },
+    "nether:nether_reactor_core_inactive": {
+        "textures": "nether_reactor_core_inactive",
+        "carried_textures": "nether_reactor_core_inactive",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "metal"
+    },
+    "nether:glowing_obsidian": {
+        "textures": "glowing_obsidian",
+        "carried_textures": "glowing_obsidian",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "stone"
     }
 }

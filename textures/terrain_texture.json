@@ -4,8 +4,20 @@
     "padding": 0,
     "num_mip_levels": 4,
     "texture_data": {
+        "end_reactor_core": {
+            "textures": "textures/blocks/end_reactor_core"
+        },
         "nether_reactor_core": {
             "textures": "textures/blocks/nether_reactor_core"
+        },
+        "nether_reactor_core_active": {
+            "textures": "textures/blocks/nether_reactor_core_active"
+        },
+        "nether_reactor_core_inactive": {
+            "textures": "textures/blocks/nether_reactor_core_inactive"
+        },
+        "glowing_obsidian": {
+            "textures": "textures/blocks/glowing_obsidian"
         }
     }
 }
