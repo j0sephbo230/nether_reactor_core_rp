@@ -4,6 +4,12 @@
     "padding": 0,
     "num_mip_levels": 4,
     "texture_data": {
+        "enderite_or": {
+            "textures": "textures/blocks/enderite_ore"
+        },
+        "gru": {
+            "textures": "textures/blocks/gru"
+        },
         "end_reactor_core": {
             "textures": "textures/blocks/end_reactor_core"
         },

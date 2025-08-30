@@ -1,5 +1,19 @@
 {
     "format_version":"1.21.60",
+    "nether:enderite_ore": {
+        "textures": "enderite_ore",
+        "carried_textures": "enderite_ore",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "stone"
+    },
+    "nether:gru": {
+        "textures": "gru",
+        "carried_textures": "gru",
+        "isotropic": false,
+        "brightness_gamma": 1,
+        "sound": "stone"
+    },
     "nether:end_reactor_core": {
         "textures": "end_reactor_core",
         "carried_textures": "end_reactor_core",
